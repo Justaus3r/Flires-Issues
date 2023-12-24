@@ -1,2 +1,2 @@
 # Flires-Issues
-Report Issues in Flires
+Create an Issue in GitHub Issue Tracker(will require you to login)
